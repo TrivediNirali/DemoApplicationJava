@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516758576989",
+    "project_id": "demoapplicationjava",
+    "storage_bucket": "demoapplicationjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516758576989:android:3d6e240dfef63c593a52b4",
+        "android_client_info": {
+          "package_name": "com.example.demoapplicationjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516758576989-si02rg73vaam6lp8bc6omtnvsoljldds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA40k5tTbCSykGDcz8V48xJMaFemjHUNqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516758576989-si02rg73vaam6lp8bc6omtnvsoljldds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
